@@ -1,5 +1,5 @@
 $(document).ready(function() {
   setTimeout(function() {
-    location.href = "views/login.html";
+    location.href = "views/home.html";
   }, 4000);
   })
